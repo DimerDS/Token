@@ -1,4 +1,4 @@
 # logo
 
-![Logo](https://dimerds.github.io/Token/coin1.png)
+![Logo](https://dimerds.github.io/Token/coin22.png)
 
